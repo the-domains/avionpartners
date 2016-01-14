@@ -1,0 +1,28 @@
+name: AvionPartners
+favicon: null
+layout_spectrum: 0.0970514677464962
+typography_spectrum: 0.5376411462202668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10668521956540644
+  lightness: 0.4074616967700422
+  saturation: 0.4630860495381057
+  rhythmicContrast: 0.859891923610121
+purpose: []
